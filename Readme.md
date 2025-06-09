@@ -1,6 +1,6 @@
 # Viewing Recommendation System - Retrieval-Augmented Generation
 
-**Checkout the report here: https://github.com/varun-jayakumar/viewing_recommendation_system/blob/main/report.pdf**
+**Checkout the report here: https://github.com/manigkrish/Viewing-Recommendation-System/blob/main/report.pdf**
 
 
 ## 🔍 Project Overview
