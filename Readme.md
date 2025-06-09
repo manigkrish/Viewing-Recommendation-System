@@ -45,7 +45,7 @@ The `README.md` file provides detailed information about the project, including 
 
 To install and run the project locally, follow these steps:
 
-1. Clone the repository: `git@github.com:varun-jayakumar/viewing_recommendation_system.git`
+1. Clone the repository: `https://github.com/manigkrish/Viewing-Recommendation-System.git`
 2. Navigate to the project directory: `cd recommendation_system`
 3. Install the dependencies: `pip install -r requirements.txt`
 4. create `.env`
